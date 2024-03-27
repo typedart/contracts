@@ -1,0 +1,8 @@
+{
+  "name": "typed fa2",
+  "description": "typed fa2 contract",
+  "version": "1.0.0",
+  "authors": ["typed"],
+  "homepage": "https://typed.art",
+  "interfaces": ["TZIP-016"]
+}

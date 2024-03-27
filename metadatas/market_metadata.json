@@ -1,0 +1,8 @@
+{
+  "name": "typed marketplace",
+  "description": "this marketplace contract allows swapping and collecting typed tokens",
+  "version": "1.0.0",
+  "authors": ["typed"],
+  "homepage": "https://typed.art",
+  "interfaces": ["TZIP-016"]
+}

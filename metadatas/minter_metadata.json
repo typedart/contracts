@@ -1,0 +1,8 @@
+{
+  "name": "typed minter",
+  "description": "this minter contract allows minting typed tokens",
+  "version": "1.0.0",
+  "authors": ["typed"],
+  "homepage": "https://typed.art",
+  "interfaces": ["TZIP-016"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "typed register",
+  "description": "this register contract is used for setting username and url on typed.art",
+  "version": "1.0.0",
+  "authors": ["typed"],
+  "homepage": "https://typed.art",
+  "interfaces": ["TZIP-016"]
+}
